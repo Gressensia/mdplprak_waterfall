@@ -1,0 +1,8 @@
+Requirement Analysis
+Sebelum melakukan pengembangan perangkat lunak, seorang pengembang harus mengetahui dan memahami bagaimana 
+informasi kebutuhan penggguna terhadap sebuah perangkat lunak. Metode pengumpulan informasi ini dapat diperoleh 
+dengan berbagai macam cara diantaranya, diskusi, observasi, survei, wawancara, dan sebagainya.
+System and Software Design
+Informasi mengenai spesifikasi kebutuhan dari tahap Requirement Analysis selanjutnya di analisa pada tahap ini untuk 
+kemudian diimplementasikan pada desain pengembangan. 
+Perancangan desain dilakukan dengan tujuan membantu memberikan gambaran lengkap mengenai apa yang harus dikerjakan.
